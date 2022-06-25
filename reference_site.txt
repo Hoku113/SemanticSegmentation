@@ -1,0 +1,5 @@
+セマンティックセグメンテーションの実装方法 -データ準備-: https://hituji-ws.com/code/python/dl-seg1/
+セマンティックセグメンテーションの実装方法 -学習と確認-: https://hituji-ws.com/code/python/dl-seg2/
+
+最適な精度評価指数について: https://tech-blog.optim.co.jp/entry/2019/03/18/173000
+モデル最適化・評価指数: https://www.datarobot.com/jp/blog/model-optimization-metrics-and-evaluation-indicators/
